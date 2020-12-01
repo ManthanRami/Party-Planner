@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    FILENAME      : slide_from_left.xml-->
+<!--    PROJECT       : PROG3150 - Assignment 1-->
+<!--    PROGRAMMER    : Aaron Perry, Daniel Grew, John Stanley, Manthan Rami, Sasha Malesevic-->
+<!--    FIRST VERSION : 2020-02-08-->
+<!--    DESCRIPTION   : This xml file contains animation details to slide an entire activity off-->
+<!--                    on to the screen from the left-->
+
+<!--    Animating Android Activities and Views with Left and Right Slide Animations-->
+<!--    By Kyle Banks-->
+<!--    Retrieved from https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view-->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:fromXDelta="-100%p" android:toXDelta="0"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:duration="@integer/slide_animation_duration"/>
+</set>

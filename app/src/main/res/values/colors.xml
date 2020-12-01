@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    FILENAME      : colors.xml-->
+<!--    PROJECT       : PROG3150 - Assignment 1-->
+<!--    PROGRAMMER    : Aaron Perry, Daniel Grew, John Stanley, Manthan Rami, Sasha Malesevic-->
+<!--    FIRST VERSION : 2020-02-08-->
+<!--    DESCRIPTION   : This xml file contains the color Hex vales used in the program-->
+
+<resources>
+    <color name="colorPrimary">#F05066</color>
+    <color name="colorPrimaryDark">#C94255</color>
+    <color name="colorAccent">#9165AB</color>
+    <color name="colorAccentYellow">#F9A11B</color>
+</resources>

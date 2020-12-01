@@ -1,0 +1,24 @@
+<!--    FILENAME      : strings.xml-->
+<!--    PROJECT       : PROG3150 - Assignment 1-->
+<!--    PROGRAMMER    : Aaron Perry, Daniel Grew, John Stanley, Manthan Rami, Sasha Malesevic-->
+<!--    FIRST VERSION : 2020-02-08-->
+<!--    DESCRIPTION   : This xml file contains all strings used in throughout the app-->
+
+<resources>
+    <string name="app_name">Let\'s Party</string>
+    <string name="create_party">Create your first party!</string>
+    <string name="party_name">Party name</string>
+    <string name="button_submit">Submit</string>
+    <string name="created_party">You created</string>
+    <string name="add_friends">Now try adding some friends!</string>
+
+    <string name="add_friends_name">Friend\'s Name</string>
+    <string name="add_friends_email">Friend\'s Email</string>
+    <string name="button_add_friends">Add Friend</string>
+    <string name="button_finish">All Done</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="compose_message">Message</string>
+    <string name="write_message_prompt">Almost done! Provide a message.</string>
+    <string name="button_send_email">Send Invite</string>
+    <string name="logo_description">Image of the Let\'s Party Logo</string>
+</resources>
